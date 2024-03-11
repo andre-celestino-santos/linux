@@ -1,7 +1,11 @@
-user and groups
+# user and groups
 
-cat /etc/passwd = show all users
-car /etc/group = show all groups
+```bash
+# show all users
+cat /etc/passwd
+# show all groups
+car /etc/group
+```
 
 sudo adduser <username> = create user
 sudo userdel <username> = delete user
